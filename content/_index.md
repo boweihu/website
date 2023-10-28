@@ -24,14 +24,14 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url:
-          date_end: '2024-07-01'
+        - certificate_url: https://www.asanet.org
+          date_end: '2024-06-30'
           date_start: '2023-07-01'
           description:
           organization: ASA
-          organization_url:
-          title: DDRIG
-          url: 
+          organization_url: https://www.asanet.org
+          title: Doctoral Dissertation Research Improvement Grant
+          url: https://www.asanet.org/academic-professional-resources/2023-asa-ddrig-recipients/
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
           date_start: '2020-07-01'
