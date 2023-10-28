@@ -34,7 +34,6 @@ education:
       institution: University of California, Los Angeles
       year: 2024 (Expected)
 
-
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 skills:
