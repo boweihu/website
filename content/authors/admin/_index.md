@@ -33,7 +33,16 @@ education:
     - course: PhD in Sociology
       institution: University of California, Los Angeles
       year: 2024 (Expected)
-
+    - course: MA in Sociology
+      institution: University of California, Los Angeles
+      year: 2020
+    - course: MA in Sociology
+      institution: National Tsing Hua University, Hsin-chu, Taiwan
+      year: 2015
+    - course: BA in Sociology
+      institution: National Taipei University, Taipei, Taiwan
+      year: 2012
+      
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 skills:
