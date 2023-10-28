@@ -2,13 +2,6 @@
 # Display name
 title: Bowei Hu
 
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
-
-# Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
-
 # Status emoji
 status:
   icon: ☕️
@@ -17,7 +10,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Candidate in Sociology
 
 # Organizations/Affiliations to show in About widget
 organizations:
