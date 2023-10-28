@@ -82,7 +82,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'boweihu@ucla.edu'
+    link: 'mailto:boweihu@ucla.edu'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/bowei_hu
