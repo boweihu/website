@@ -14,22 +14,23 @@ role: PhD Candidate in Sociology
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Sociology, UCLA
+    url: https://soc.ucla.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I study how organizations contribute to economic inequality.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Organizations
+  - Stratification and Inequality
+  - Economic Sociology
+  - Quantitative Methods
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: PhD in Sociology
       institution: Stanford University
       year: 2012
     - course: MEng in Artificial Intelligence
