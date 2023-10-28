@@ -14,7 +14,7 @@ role: PhD Candidate in Sociology
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Sociology, UCLA
+  - name: University of California, Los Angeles
     url: https://soc.ucla.edu
 
 # Short bio (displayed in user profile at end of posts)
@@ -31,14 +31,9 @@ interests:
 education:
   courses:
     - course: PhD in Sociology
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      institution: University of California, Los Angeles
+      year: 2024 (Expected)
+
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
