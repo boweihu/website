@@ -25,8 +25,8 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url:
-          date_end: '2024'
-          date_start: '2023'
+          date_end: '2024-07-01'
+          date_start: '2023-07-01'
           description:
           organization: ASA
           organization_url:
