@@ -32,7 +32,7 @@ sections:
           organization_url: https://www.asanet.org
           title: Doctoral Dissertation Research Improvement Grant
           url: https://www.asanet.org/academic-professional-resources/2023-asa-ddrig-recipients/
-     - certificate_url:
+        - certificate_url:
           date_end:
           date_start: '2023-08-01'
           description:
@@ -40,7 +40,7 @@ sections:
           organization_url: https://www.isa-sociology.org/en/research-networks/research-committees/rc28-social-stratification/
           title: RC 28 on Social Stratification and Mobility Student Travel Award
           url:
-      - certificate_url:
+        - certificate_url:
           date_end: 
           date_start: '2023-07-01'
           description: 
