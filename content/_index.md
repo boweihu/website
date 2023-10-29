@@ -30,7 +30,7 @@ sections:
           description:
           organization: American Sociological Association
           organization_url: https://www.asanet.org
-          title: Doctoral Dissertation Research Improvement Grant
+          title: ASA Doctoral Dissertation Research Improvement Grant
           url: https://www.asanet.org/academic-professional-resources/2023-asa-ddrig-recipients/
         - certificate_url:
           date_end:
@@ -46,7 +46,7 @@ sections:
           description: 
           organization: Society for the Advancement of Socio-Economics
           organization_url: https://sase.org
-          title: Early Career Workshop Award
+          title: SASE Early Career Workshop Award
           url: 
         - certificate_url:
           date_end: '2024-07-31'
