@@ -32,6 +32,30 @@ sections:
           organization_url: https://www.asanet.org
           title: Doctoral Dissertation Research Improvement Grant
           url: https://www.asanet.org/academic-professional-resources/2023-asa-ddrig-recipients/
+     - certificate_url:
+          date_end:
+          date_start: '2023-08-01'
+          description:
+          organization: International Sociological Association
+          organization_url: https://www.isa-sociology.org/en/research-networks/research-committees/rc28-social-stratification/
+          title: RC 28 on Social Stratification and Mobility Student Travel Award
+          url:
+      - certificate_url:
+          date_end: 
+          date_start: '2023-07-01'
+          description: 
+          organization: Society for the Advancement of Socio-Economics
+          organization_url: https://sase.org
+          title: Early Career Workshop Award
+          url: 
+        - certificate_url:
+          date_end: '2024-07-31'
+          date_start: '2023-08-01'
+          description: 
+          organization: National Science and Technology Council, Taiwan 
+          organization_url: https://www.nstc.gov.tw/?l=en
+          title: Taiwanese Overseas Pioneers Grant
+          url: 
     design:
       columns: '2'
   - block: portfolio
