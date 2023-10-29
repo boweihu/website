@@ -25,6 +25,7 @@ interests:
   - Organizations
   - Stratification and Inequality
   - Economic Sociology
+  - Comparative Political Economy
   - Quantitative Methods
 
 # Education to show in About widget
@@ -32,10 +33,7 @@ education:
   courses:
     - course: PhD in Sociology
       institution: University of California, Los Angeles
-      year: 2024 (Expected)
-    - course: MA in Sociology
-      institution: University of California, Los Angeles
-      year: 2020
+      year: 2024
     - course: MA in Sociology
       institution: National Tsing Hua University, Hsin-chu, Taiwan
       year: 2015
