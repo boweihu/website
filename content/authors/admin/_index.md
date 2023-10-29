@@ -72,4 +72,6 @@ social:
 highlight_name: true
 ---
 Bowei is an organizational sociologist studying economic inequality.
+
+
 {style="text-align: justify;"}
