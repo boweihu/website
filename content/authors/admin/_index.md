@@ -73,5 +73,5 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Bowei Hu is a doctoral candidate at the University of California, Los Angeles, and he is affiliated with the California Center for Population Research.
+Bowei is an organizational sociologist studying economic inequality.
 {style="text-align: justify;"}
