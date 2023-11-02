@@ -55,7 +55,15 @@ sections:
           organization: National Science and Technology Council, Taiwan 
           organization_url: https://www.nstc.gov.tw/?l=en
           title: Taiwanese Overseas Pioneers Grant
-          url: 
+          url:
+        - certificate_url:
+          date_end: '2024-07-31'
+          date_start: '2023-08-01'
+          description: 
+          organization: University of California, Los Angeles
+          organization_url: https://www.ucla.edu
+          title: Dissertation Year Fellowship
+          url:
     design:
       columns: '2'
   - block: portfolio
