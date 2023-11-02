@@ -67,7 +67,7 @@ sections:
     design:
       columns: '2'
   - block: portfolio
-    id: projects
+    id: research
     content:
       title: Research
       filters:
@@ -94,6 +94,7 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   - block: collection
+    id: publication
     content:
       title: Publications
       text: |-
@@ -108,7 +109,7 @@ sections:
       columns: '2'
       view: citation
   - block: collection
-    id: talks
+    id: teaching
     content:
       title: Teaching
       filters:
