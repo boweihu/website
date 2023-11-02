@@ -38,7 +38,7 @@ sections:
           description:
           organization: International Sociological Association
           organization_url: https://www.isa-sociology.org/en/research-networks/research-committees/rc28-social-stratification/
-          title: RC 28 on Social Stratification and Mobility Student Travel Award
+          title: ISA RC 28 on Social Stratification and Mobility Student Travel Award
           url:
         - certificate_url:
           date_end: 
@@ -62,7 +62,7 @@ sections:
           description: 
           organization: University of California, Los Angeles
           organization_url: https://www.ucla.edu
-          title: Dissertation Year Fellowship
+          title: UCLA Dissertation Year Fellowship
           url:
     design:
       columns: '2'
