@@ -108,15 +108,15 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
-    id: teaching
-    content:
-      title: Teaching
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
+ # - block: collection
+ #   id: teaching
+ #   content:
+ #     title: Teaching
+ #     filters:
+ #       folders:
+ #         - event
+ #   design:
+ #     columns: '2'
+ #     view: compact
   
 ---
