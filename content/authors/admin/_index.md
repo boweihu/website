@@ -75,6 +75,6 @@ social:
 highlight_name: true
 ---
 Bowei is an organizational sociologist studying economic inequality. His dissertation, titled “Households in the Red: How Banking Organizations Drive Their Debt,”
-focuses on organizational processes that exacerbate rising household debt in both the United States and affluent democracies.
+focuses on organizational processes that exacerbate rising household debt in both the United States and affluent democracies over the past two decades.
 
 {style="text-align: justify;"}
