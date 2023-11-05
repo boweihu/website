@@ -33,12 +33,15 @@ education:
   courses:
     - course: PhD in Sociology
       institution: University of California, Los Angeles
-      year: 2024
+      year: 2024 (expected)
     - course: MA in Sociology
-      institution: National Tsing Hua University, Hsin-chu, Taiwan
+      institution: University of California, Los Angeles
+      year: 2020
+    - course: MA in Sociology
+      institution: National Tsing Hua University, Taiwan
       year: 2015
     - course: BA in Sociology
-      institution: National Taipei University, Taipei, Taiwan
+      institution: National Taipei University, Taiwan
       year: 2012
       
 # Social/Academic Networking
@@ -71,7 +74,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Bowei is an organizational sociologist studying economic inequality.
-
+Bowei is an organizational sociologist studying economic inequality. His dissertation, titled “Households in the Red: How Banking Organizations Drive Their Debt,”
+focuses on organizational processes that exacerbate rising household debt in both the United States and affluent democracies.
 
 {style="text-align: justify;"}
