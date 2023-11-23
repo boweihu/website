@@ -70,7 +70,7 @@ sections:
           description: 
           organization: International Journal of Taiwan Studies
           organization_url: https://eats-taiwan.eu/international-journal-of-taiwan-studies/
-          title: Open Access Award
+          title: IJTS Open Access Award
           url:
     design:
       columns: '2'
