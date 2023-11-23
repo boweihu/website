@@ -64,14 +64,6 @@ sections:
           organization_url: https://www.ucla.edu
           title: UCLA Dissertation Year Fellowship
           url:
-       - certificate_url:
-          date_end: 
-          date_start: '2023-11-01'
-          description: 
-          organization: International Journal of Taiwan Studies
-          organization_url: https://brill.com/view/journals/ijts/ijts-overview.xml?language=en
-          title: Open Access Award
-          url:
     design:
       columns: '2'
   - block: portfolio
