@@ -1,6 +1,6 @@
 ---
 title: Household Debt
-summary: My dissertation, “Households in the Red: How Banking Organizations Drive Their Debt,” examines how banking organizations in the United States and other affluent democracies contribute to the growth and stratification of household debt.  
+summary: My dissertation examines how banking organizations in the United States and other affluent democracies contribute to the growth and stratification of household debt.  
 tags:
   - Household Debt
 date: '2016-04-27T00:00:00Z'
