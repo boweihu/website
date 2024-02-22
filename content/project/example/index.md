@@ -1,6 +1,6 @@
 ---
 title: Household Debt
-summary: This my dissertation project.
+summary:
 tags:
   - Household Debt
 date: '2016-04-27T00:00:00Z'
@@ -9,7 +9,7 @@ date: '2016-04-27T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption:
   focal_point: Smart
 
 links:
@@ -29,4 +29,14 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-111111
+My dissertation focuses on the understudied role of banks in household finance, specifically examining household indebtedness. 
+
+Over the last three decades, households in developed countries have increasingly incurred a heavier debt burden. Although scholars in welfare and financial policy have explored the macro-historical reasons behind this increase in household debt, and those in social stratification have highlighted the disproportionate debt burden on racial minorities and low-income households, the critical role of banks has largely been neglected. This omission limits our understanding of the relationship between debt growth and stratification, as well as our ability to address recent banking turmoils and the trend of overborrowing among these households. 
+
+To overcome these limitations, my dissertation studies how banking organizations in the United States and other affluent democracies contribute to the growth and stratification of household debt. 
+
+1. In the Red: How Bank Concentration Fuels Debt Burden for Households, 1995–2019
+
+2. Banking Without Banks: How Bank Account Ownership Influences Racial Disparities in Alternative Financial Services
+
+3. The Polarization in Local Banking Systems and Household Debt
