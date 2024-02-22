@@ -1,9 +1,9 @@
 ---
 title: Household Debt
-summary: How Do Banking Organizations Drive Their Debt/
-tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+summary: How Do Banking Organizations Drive Their Debt?
+# tags:
+#  - Deep Learning
+date: '2024-02-24'
 
 
 # title: Household Debt
