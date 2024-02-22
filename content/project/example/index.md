@@ -3,7 +3,7 @@ title: Household Debt
 summary: This my dissertation project.
 tags:
   - Household Debt
-date: '2024-02-22'
+date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
