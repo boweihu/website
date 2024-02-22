@@ -1,8 +1,8 @@
 ---
 title: Household Debt
 summary: How Do Banking Organizations Drive Their Debt?
-# tags:
-#  - Deep Learning
+tags:
+- household
 date: '2024-02-24'
 
 # Optional external URL for project (replaces project detail page).
