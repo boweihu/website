@@ -91,8 +91,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Dissertation
-          tag: Dissertation
+        - name: Household
+          tag: Household
         - name: Other
           tag: Other
     design:
