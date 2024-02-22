@@ -1,9 +1,16 @@
 ---
-title: Household Debt
-summary: Households in the Red: How Banking Organizations Drive Their Debt
+title: Example Project
+summary: An example of using the in-built project page.
 tags:
   - Deep Learning
 date: '2016-04-27T00:00:00Z'
+
+
+# title: Household Debt
+# summary: Households in the Red: How Banking Organizations Drive Their Debt
+# tags:
+#  - Deep Learning
+# date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
