@@ -1,6 +1,6 @@
 ---
 title: Household Debt
-summary: How Do Banking Organizations Drive Their Debt?
+summary: How Do Banking Organizations Drive Their Debt
 tags:
 - Household
 date: '2024-02-24'
