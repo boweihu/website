@@ -1,6 +1,6 @@
 ---
 title: Venture Capital
-summary:
+summary: In my collaborative research with Olav Sorenson, I extend my exploration into the domain of entrepreneurial finance, with a specific focus on venture capital.
 tags:
   - Venture Capital
 date: '2016-04-27T00:00:00Z'
