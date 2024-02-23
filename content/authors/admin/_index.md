@@ -80,7 +80,7 @@ focuses on banking organizations such as commercial banks and alternative financ
 
 His research has been awarded by the ASA, SASE, ISA RC28, ect.
 
-*News Update*: Bowei has earned a nomination for the 2024–2025 position of Student Representative on the council of the Economic Sociology Section, ASA. Your vote in support of him would be greatly appreciated!
+**News Update**: Bowei has earned a nomination for the 2024–2025 position of Student Representative on the council of the Economic Sociology Section, ASA. Your vote in support of him would be greatly appreciated!
 
 
 {style="text-align: justify;"}
