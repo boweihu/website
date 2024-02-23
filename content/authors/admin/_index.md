@@ -73,9 +73,9 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Bowei Hu is an organizational sociologist studying economic inequality. Focusing on wealth inequality, he develops innovative theoretical frameworks inspired by organizational theories and adopts a causal inference approach with large-scale quantitative to uncover organizational foundations of economic inequality. 
+Bowei Hu is an organizational sociologist studying household and entrepernural finance. He develops innovative theoretical frameworks inspired by organizational theories and adopts causal inference approaches with large-scale quantitative datasets.
 
-His dissertation (co-chaired by Jennie Brand and Olav Sorenson), titled “Households in the Red: How Banking Organizations Drive Their Debt,”
+His dissertation (co-chaired by Jennie Brand and Olav Sorenson), titled *“Households in the Red: How Banking Organizations Drive Their Debt,”*
 focuses on banking organizations such as commercial banks and alternative financial services that exacerbate rising household debt in both the United States and affluent democracies over the past two decades. 
 
 His research has been awarded by the ASA, SASE, ISA RC28, ect.
