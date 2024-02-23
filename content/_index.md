@@ -94,7 +94,9 @@ sections:
         - name: Household Debt
           tag: Household Debt
         - name: Venture Capital
-          tag: Venture Capita
+          tag: Venture Capital
+        - name: Market Structure
+          tag: Market Structure
         - name: Taiwanese Firms
           tag: Taiwanese Firms
     design:
