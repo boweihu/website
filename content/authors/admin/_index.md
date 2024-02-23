@@ -18,14 +18,13 @@ organizations:
     url: https://soc.ucla.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: I study how organizations contribute to economic inequality.
+bio:
 
 # Interests to show in About widget
 interests:
   - Organizations
   - Stratification and Inequality
   - Economic Sociology
-  - Comparative Political Economy
   - Quantitative Methods
 
 # Education to show in About widget
@@ -79,7 +78,9 @@ Bowei Hu is an organizational sociologist studying economic inequality. Focusing
 His dissertation (co-chaired by Jennie Brand and Olav Sorenson), titled “Households in the Red: How Banking Organizations Drive Their Debt,”
 focuses on banking organizations such as commercial banks and alternative financial services that exacerbate rising household debt in both the United States and affluent democracies over the past two decades. 
 
-His research has been awarded by the ASA, SASE, ISA RC28, etc. Previous work has been published in IJTS and City and Planning.
+His research has been awarded by the ASA, SASE, ISA RC28.
+
+News Update: Bowei has earned a nomination for the 2024–2025 position of Student Representative on the council of the Economic Sociology Section, ASA. Your vote in support of him would be greatly appreciated!
 
 
 {style="text-align: justify;"}
