@@ -73,14 +73,13 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Bowei Hu is an organizational sociologist studying household and entrepernural finance. He develops innovative theoretical frameworks inspired by organizational theories and adopts causal inference approaches with large-scale quantitative datasets.
+Bowei Hu is an organizational sociologist who studies household and entrepreneurial finance. He develops innovative theoretical frameworks inspired by organizational theories and adopts causal inference methods with large-scale quantitative datasets.
 
-His dissertation (co-chaired by Jennie Brand and Olav Sorenson), titled *“Households in the Red: How Banking Organizations Drive Their Debt,”*
-focuses on banking organizations such as commercial banks and alternative financial services that exacerbate rising household debt in both the United States and affluent democracies over the past two decades. 
+His doctoral dissertation, co-chaired by [Jennie Brand](https://soc.ucla.edu/person/jennie-e-brand/) and [Olav Sorenson](https://www.anderson.ucla.edu/faculty-and-research/strategy/faculty/sorenson) and titled *“Households in the Red: How Banking Organizations Drive Their Debt,”* examines the role of banking institutions, such as commercial banks and alternative financial services, in exacerbating household debt in the United States and other affluent democracies over the last two decades.
 
-His research has been awarded by the ASA, SASE, ISA RC28, ect.
+:trophy: Bowei's research has been recognized and awarded by prestigious organizations such as the ASA, SASE, and ISA RC28, among others.
 
-**News Update**: Bowei has earned a nomination for the 2024–2025 position of Student Representative on the council of the Economic Sociology Section, ASA. Your vote in support of him would be greatly appreciated!
+**News Update**: Bowei has earned a nomination for the 2024–2025 position of Student Representative on the council of the Economic Sociology Section, ASA. Your vote in support of him would be greatly appreciated ❤️
 
 
 {style="text-align: justify;"}
