@@ -57,7 +57,7 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-   - icon: google-scholar
+  - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=0n5AYdQAAAAJ&view_op=list_works&sortby=pubdate
   # - icon: github
