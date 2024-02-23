@@ -95,10 +95,10 @@ sections:
           tag: Household Debt
         - name: Venture Capital
           tag: Venture Capital
-        - name: Market Structure
-          tag: Market Structure
-        - name: Taiwanese Firms
-          tag: Taiwanese Firms
+       # - name: Market Structure
+       #   tag: Market Structure
+       # - name: Taiwanese Firms
+       #   tag: Taiwanese Firms
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
