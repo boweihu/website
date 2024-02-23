@@ -78,9 +78,9 @@ Bowei Hu is an organizational sociologist studying economic inequality. Focusing
 His dissertation (co-chaired by Jennie Brand and Olav Sorenson), titled “Households in the Red: How Banking Organizations Drive Their Debt,”
 focuses on banking organizations such as commercial banks and alternative financial services that exacerbate rising household debt in both the United States and affluent democracies over the past two decades. 
 
-His research has been awarded by the ASA, SASE, ISA RC28.
+His research has been awarded by the ASA, SASE, ISA RC28, ect.
 
-News Update: Bowei has earned a nomination for the 2024–2025 position of Student Representative on the council of the Economic Sociology Section, ASA. Your vote in support of him would be greatly appreciated!
+*News Update*: Bowei has earned a nomination for the 2024–2025 position of Student Representative on the council of the Economic Sociology Section, ASA. Your vote in support of him would be greatly appreciated!
 
 
 {style="text-align: justify;"}
