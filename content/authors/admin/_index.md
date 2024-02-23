@@ -75,7 +75,7 @@ highlight_name: true
 ---
 Bowei Hu is an organizational sociologist who studies household and entrepreneurial finance. He develops innovative theoretical frameworks inspired by organizational theories and adopts causal inference methods with large-scale quantitative datasets.
 
-His doctoral dissertation, co-chaired by [Jennie Brand](https://soc.ucla.edu/person/jennie-e-brand/) and [Olav Sorenson](https://www.anderson.ucla.edu/faculty-and-research/strategy/faculty/sorenson) and titled *“Households in the Red: How Banking Organizations Drive Their Debt,”* examines the role of banking organizations, such as commercial banks and alternative financial services, in exacerbating household debt in the United States and other affluent democracies over the last two decades.
+His doctoral dissertation, co-chaired by [Jennie Brand](https://soc.ucla.edu/person/jennie-e-brand/) and [Olav Sorenson](https://www.anderson.ucla.edu/faculty-and-research/strategy/faculty/sorenson) and titled *“[Households in the Red: How Banking Organizations Drive Their Debt](https://boweihu.com/project/household_debt/),”* examines the role of banking organizations, such as commercial banks and alternative financial services, in exacerbating household debt in the United States and other affluent democracies over the last two decades.
 
 :trophy: Bowei's research has been recognized and awarded by prestigious organizations such as the ASA, SASE, and ISA RC28, among others.
 
