@@ -73,13 +73,13 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Bowei Hu is an organizational sociologist who studies household and entrepreneurial finance. He develops innovative theoretical frameworks inspired by organizational theories and adopts causal inference methods with large-scale quantitative datasets.
+I am an organizational sociologist who studies household and entrepreneurial finance. I develop innovative theoretical frameworks inspired by organizational theories and adopt causal inference methods with large-scale quantitative datasets.
 
-His doctoral dissertation, co-chaired by [Jennie Brand](https://soc.ucla.edu/person/jennie-e-brand/) and [Olav Sorenson](https://www.anderson.ucla.edu/faculty-and-research/strategy/faculty/sorenson) and titled *“[Households in the Red: How Banking Organizations Drive Their Debt](https://boweihu.com/project/household_debt/),”* examines the role of banking organizations, such as commercial banks and alternative financial services, in exacerbating household debt in the United States and other affluent democracies over the last two decades.
+My doctoral dissertation, co-chaired by [Jennie Brand](https://soc.ucla.edu/person/jennie-e-brand/) and [Olav Sorenson](https://www.anderson.ucla.edu/faculty-and-research/strategy/faculty/sorenson) and titled *“[Households in the Red: How Banking Organizations Drive Their Debt](https://boweihu.com/project/household_debt/),”* examines the role of banking organizations, such as commercial banks and alternative financial services, in exacerbating household debt in the United States and other affluent democracies over the last two decades.
 
-:trophy: Bowei's research has been recognized and awarded by prestigious organizations such as the ASA, SASE, and ISA RC28, among others.
+:trophy: My research has been recognized and awarded by prestigious organizations such as the ASA, SASE, and ISA RC28, among others.
 
-**News Update (2/23/2024)**: Bowei has earned a nomination for the 2024–2025 position of Student Representative on the council of the Economic Sociology Section, ASA. Your vote in support of him would be greatly appreciated 🙌
+**News Update (2/23/2024)**: I have earned a nomination for the 2024–2025 position of Student Representative on the council of the Economic Sociology Section, ASA. Your vote in support of him would be greatly appreciated 🙌
 
 
 {style="text-align: justify;"}
