@@ -79,6 +79,8 @@ My dissertation, co-chaired by [Jennie Brand](https://soc.ucla.edu/person/jennie
 
 :trophy: My research has been recognized and awarded by prestigious organizations such as the ASA, SASE, and ISA RC28, among others.
 
+Outside of my scholarly endeavors, I find joy as a recreational tennis player 🎾 and am taking my first steps as an Olympic weightlifter 🏋️‍♂️
+
 **News Update (2/23/2024)**: I am honored to be nominated for the 2024–2025 Student Representative position on the Economic Sociology Section Council of the ASA, and I would deeply appreciate your support through your vote 🙌
 
 
