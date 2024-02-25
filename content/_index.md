@@ -31,7 +31,7 @@ sections:
           organization: American Sociological Association
           organization_url: https://www.asanet.org
           title: ASA Doctoral Dissertation Research Improvement Grant
-          url: https://www.asanet.org/academic-professional-resources/2023-asa-ddrig-recipients/
+          url: https://www.asanet.org/academic-professional-resources/asa-grants-and-fellowships/asa-doctoral-dissertation-research-improvement-grants-asa-ddrig
         - certificate_url:
           date_end:
           date_start: '2023-08-01'
