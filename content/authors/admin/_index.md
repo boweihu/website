@@ -77,7 +77,7 @@ I am an organizational sociologist who studies household and entrepreneurial fin
 
 My dissertation, co-chaired by [Jennie Brand](https://soc.ucla.edu/person/jennie-e-brand/) and [Olav Sorenson](https://www.anderson.ucla.edu/faculty-and-research/strategy/faculty/sorenson) and titled “[Households in the Red: How Banking Organizations Drive Their Debt](https://boweihu.com/project/household_debt/),” examines the role of banking organizations, such as commercial banks and alternative financial services, in exacerbating household debt in the United States and other affluent democracies over the last two decades.
 
-:trophy: My research has been recognized and awarded by prestigious organizations such as the ASA, SASE, and ISA RC28, among others.
+:trophy: My research has been awarded by the ASA, SASE, and ISA RC28, among others.
 
 Read my job market paper "[In the Red: How Bank Concentration Fuels Debt Burden for Households, 1995–2019.](https://osf.io/utmj4)"
 
