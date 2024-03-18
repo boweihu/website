@@ -79,7 +79,9 @@ My dissertation, co-chaired by [Jennie Brand](https://soc.ucla.edu/person/jennie
 
 :trophy: My research has been recognized and awarded by prestigious organizations such as the ASA, SASE, and ISA RC28, among others.
 
-Outside of my scholarly endeavors, I find joy as a recreational tennis player 🎾 and am taking my first steps as an Olympic weightlifter 🏋️‍♂️
+Read my job market paper "[In the Red: How Bank Concentration Fuels Debt Burden for Households, 1995–2019.](https://osf.io/utmj4)"
+
+Outside of my scholarly endeavors, I find joy as a recreational tennis player.
 
 **News Update (2/23/2024)**: I am honored to be nominated for the 2024–2025 Student Representative position on the [Economic Sociology Section](https://www.asanet.org/asa_sections/economic-sociology/) Council of the ASA, and I would deeply appreciate your support through your vote 🙌
 
