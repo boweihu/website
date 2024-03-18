@@ -37,13 +37,13 @@ To overcome these limitations, my dissertation, *“Households in the Red: How B
 
 Here is the title of each empirical chapter:
 
-1. In the Red: How Bank Concentration Fuels Debt Burden for Households, 1995–2019 
+1. In the Red: How Bank Concentration Fuels Debt Burden for Households, 1995–2019 ([draft](https://osf.io/5m7y2/))
 
-2. Banking Without Banks: How Bank Account Ownership Influences Racial Disparities in Alternative Financial Services ([draft](https://osf.io/g5j23/))
+2. Banking Without Banks: How Bank Account Ownership Influences Racial Disparities in Alternative Financial Services ([draft](https://osf.io/preprints/socarxiv/mbx7f))
 
 3. The Polarization in Local Banking Systems and Household Debt
 
-Dissertation committee members include Jennie Brand (co-chair), Olav Sorenson (co-chair), David Brady, Kevan Harris, and Edward Walker.
+My dissertation committee members include Jennie Brand (co-chair), Olav Sorenson (co-chair), David Brady, Kevan Harris, and Edward Walker.
 
 This dissertation has won the American Sociological Association’s Doctoral Dissertation Research Improvement Grant, the UCLA Dissertation Year Fellowship, and the Taiwanese Overseas Pioneers Grant.
 
