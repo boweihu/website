@@ -37,7 +37,7 @@ To overcome these limitations, my dissertation, *“Households in the Red: How B
 
 Here is the title of each empirical chapter:
 
-1. In the Red: How Bank Concentration Fuels Debt Burden for Households, 1995–2019 ([draft](https://osf.io/5m7y2/))
+1. In the Red: How Bank Concentration Fuels Debt Burden for Households, 1995–2019 ([draft](https://doi.org/10.31235/osf.io/fx2tu))
 
 2. Banking Without Banks: How Bank Account Ownership Influences Racial Disparities in Alternative Financial Services ([draft](https://osf.io/preprints/socarxiv/mbx7f))
 
