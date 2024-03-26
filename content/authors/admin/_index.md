@@ -32,7 +32,7 @@ education:
   courses:
     - course: PhD in Sociology
       institution: University of California, Los Angeles
-      year: 2024 (expected)
+      year: 2025 (expected)
     - course: MA in Sociology
       institution: University of California, Los Angeles
       year: 2020
