@@ -35,9 +35,11 @@ Over the last three decades, households in developed countries have increasingly
 
 To overcome these limitations, my dissertation, *“Households in the Red: How Banking Organizations Drive Their Debt,”* examines how banking organizations in the United States and other affluent democracies contribute to the growth and stratification of household debt, illuminating three critical organizational processes that exacerbate the increasing household debt in both the United States and affluent democracies: the concentration of commercial banks, the exclusion from bank account ownership, and the polarization in local banking systems. 
 
-Here is the title of each empirical chapter:
+Here are the three chapters of the dissertation:
 
 1. In the Red: How Bank Concentration Fuels Debt Burden for Households, 1995–2019 ([draft](https://doi.org/10.31235/osf.io/fx2tu))
+
+From 1995 to 2019, the average household debt burden in OECD countries increased from 71% to 127%. While financial deregulation and welfare retrenchment have been identified as key contributing factors, the impact of bank concentration on this trend has remained less understood. This study explores the contribution of bank concentration to household debt burden by analyzing data from the Luxembourg Wealth Study, covering over one million households across 16 affluent democracies during the same period. Results show that an increase in country-level bank concentration leads to a higher household-level debt burden. To uncover the mechanisms at play, I evaluate two hypotheses: market power and resource partitioning. Contrary to the expectations of the market power hypothesis, causal mediation analysis indicates that the relationship between bank concentration and household debt burden is not mediated by increased profitability in the banking sector. Instead, the evidence supports the resource partitioning theory, highlighting the significant role of nonbank financial organizations. Notably, the study finds that the non-housing debt burden of low-income households is particularly influenced by the proliferation of these organizations. This research sheds light on an overlooked driver of household indebtedness, illustrating an organizational process of debt-based accumulation that stratifies household wealth.
 
 2. Banking Without Banks: How Bank Account Ownership Influences Racial Disparities in Alternative Financial Services ([draft](https://osf.io/preprints/socarxiv/mbx7f))
 
