@@ -65,8 +65,8 @@ sections:
           title: UCLA Dissertation Year Fellowship
           url:
         - certificate_url:
-          date_end: '2023-11-02'
-          date_start: '2023-11-01'
+          date_end: '2023-11-01'
+          date_start: 
           description: 
           organization: International Journal of Taiwan Studies
           organization_url: https://eats-taiwan.eu/international-journal-of-taiwan-studies/
@@ -74,7 +74,7 @@ sections:
           url:
         - certificate_url:
           date_end: '2024-05-11'
-          date_start: '2024-05-10'
+          date_start:
           description: 
           organization: ASA Section on Economic Sociology
           organization_url: https://www.asanet.org/asa_sections/economic-sociology
