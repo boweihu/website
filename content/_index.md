@@ -65,12 +65,20 @@ sections:
           title: UCLA Dissertation Year Fellowship
           url:
         - certificate_url:
-          date_end:
+          date_end: '2023-11-02'
           date_start: '2023-11-01'
           description: 
           organization: International Journal of Taiwan Studies
           organization_url: https://eats-taiwan.eu/international-journal-of-taiwan-studies/
           title: IJTS Open Access Award
+          url:
+        - certificate_url:
+          date_end: '2024-05-11'
+          date_start: '2024-05-10'
+          description: 
+          organization: ASA Section on Economic Sociology
+          organization_url: https://www.asanet.org/asa_sections/economic-sociology
+          title: Ronald Burt Student Paper Award Honorable Mention
           url:
     design:
       columns: '2'
