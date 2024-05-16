@@ -80,6 +80,13 @@ sections:
           organization_url: https://www.asanet.org/asa_sections/economic-sociology
           title: Ronald Burt Student Paper Award Honorable Mention
           url:
+        - certificate_url:
+          date_end: 
+          date_start: '2024-05-10'
+          description: 
+          organization: ASA Section on Sociology of Consumers and Consumption
+          organization_url: https://www.asanet.org/asa_sections/economic-sociology
+          title: Consumers and Consumption Student Paper Award 
     design:
       columns: '2'
   - block: portfolio
