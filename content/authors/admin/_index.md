@@ -51,9 +51,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:boweihu@ucla.edu'
-  - icon: x-twitter
-    icon_pack: fas
-    link: https://x.com/bowei_hu
+  - icon: 'x-twitter'
+    icon_pack: fab
+    link: 'https://x.com/bowei_hu'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=0n5AYdQAAAAJ&view_op=list_works&sortby=pubdate
