@@ -32,7 +32,7 @@ education:
   courses:
     - course: PhD in Sociology
       institution: University of California, Los Angeles
-      year: 2025 (expected)
+      year: 2025
     - course: MA in Sociology
       institution: University of California, Los Angeles
       year: 2020
@@ -52,7 +52,7 @@ social:
     icon_pack: fas
     link: 'mailto:boweihu@ucla.edu'
   - icon: x-twitter
-    icon_pack: fab
+    icon_pack: fas
     link: https://x.com/bowei_hu
   - icon: google-scholar
     icon_pack: ai
