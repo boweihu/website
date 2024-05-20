@@ -51,12 +51,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:boweihu@ucla.edu'
-  - icon: twitter
+  - icon: x-twitter
     icon_pack: fab
-    link: https://twitter.com/bowei_hu
+    link: https://x.com/bowei_hu
     label: Follow me on Twitter
     display:
-      header: true
+      header: false
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=0n5AYdQAAAAJ&view_op=list_works&sortby=pubdate
