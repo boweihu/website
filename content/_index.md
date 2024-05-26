@@ -85,7 +85,7 @@ sections:
           date_start: '2024-05-10'
           description: 
           organization: ASA Section on Sociology of Consumers and Consumption
-          organization_url: https://www.asanet.org/asa_sections/economic-sociology
+          organization_url: https://www.asanet.org/asa_sections/sociology-of-consumers-and-consumption
           title: Consumers and Consumption Student Paper Award 
     design:
       columns: '2'
