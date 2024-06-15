@@ -74,7 +74,7 @@ sections:
           url:
         - certificate_url:
           date_end: 
-          date_start: '2024-05-11'
+          date_start: '2024-06-02'
           description: 
           organization: ASA Section on Economic Sociology
           organization_url: https://www.asanet.org/asa_sections/economic-sociology
@@ -82,7 +82,7 @@ sections:
           url:
         - certificate_url:
           date_end: 
-          date_start: '2024-05-10'
+          date_start: '2024-06-01'
           description: 
           organization: ASA Section on Sociology of Consumers and Consumption
           organization_url: https://www.asanet.org/asa_sections/sociology-of-consumers-and-consumption
