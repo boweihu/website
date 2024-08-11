@@ -76,7 +76,9 @@ My dissertation, co-chaired by [Jennie Brand](https://soc.ucla.edu/person/jennie
 
 :trophy: My research has been awarded by the ASA, SASE, and ISA RC28, among others.
 
-Read my job market paper "[In the Red: How Bank Concentration Fuels Debt Burden for Households, 1995–2019.](https://doi.org/10.31235/osf.io/fx2tu)"
+> Read my job market paper "[In the Red: How Bank Concentration Fuels Debt Burden for Households, 1995–2019.](https://doi.org/10.31235/osf.io/fx2tu)"
+
+> Read my 2024 ASA paper "[Banking the Unbanked Spurs Payday Loan Usage among Black Households.](https://osf.io/preprints/socarxiv/mbx7f)"
 
 Outside of my scholarly endeavors, I find joy as a recreational tennis player.
 
