@@ -49,6 +49,3 @@ Here are the three chapters of the dissertation:
 My dissertation committee members include Jennie Brand (co-chair), Olav Sorenson (co-chair), David Brady, Kevan Harris, and Edward Walker.
 
 This dissertation has won the American Sociological Association’s Doctoral Dissertation Research Improvement Grant, the UCLA Dissertation Year Fellowship, and the Taiwanese Overseas Pioneers Grant.
-
-
-
