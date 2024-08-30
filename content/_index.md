@@ -110,6 +110,8 @@ sections:
           tag: Venture Capital
         - name: Global Taiwan Studies
           tag: Global Taiwan
+        - name: All
+          tag: '*'
        # - name: Market Structure
        #   tag: Market Structure
        # - name: Taiwanese Firms
