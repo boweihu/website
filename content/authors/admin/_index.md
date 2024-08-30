@@ -25,6 +25,7 @@ interests:
   - Organizations
   - Stratification and Inequality
   - Economic Sociology
+  - Global Taiwan Studies
   - Quantitative Methods
 
 # Education to show in About widget
