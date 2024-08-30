@@ -110,6 +110,8 @@ sections:
           tag: Household Debt
         - name: Venture Capital
           tag: Venture Capital
+        - name: Global Taiwan Studies
+          tag: Global Taiwan
        # - name: Market Structure
        #   tag: Market Structure
        # - name: Taiwanese Firms
