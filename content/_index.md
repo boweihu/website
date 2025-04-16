@@ -1,30 +1,3 @@
----
-# Leave the homepage title empty to use the site title
-title: ''
-date: 2022-10-24
-type: landing
-
-sections:
-  - block: about.biography
-    id: about
-    content:
-      title: Welcome
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
-  - block: accomplishments
-    content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Recent Awards & Grants'
-      subtitle:
-      # Date format: https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      Error in user YAML: (<unknown>): did not find expected key while parsing a block mapping at line 16 column 7
----
 # Leave the homepage title empty to use the site title
 title: ''
 date: 2022-10-24
@@ -113,14 +86,16 @@ sections:
           organization: ASA Section on Sociology of Consumers and Consumption
           organization_url: https://www.asanet.org/asa_sections/sociology-of-consumers-and-consumption
           title: Consumers and Consumption Student Paper Award
-       - certificate_url:
+          url:
+        - certificate_url:
           date_end: 
           date_start: '2025-04-01'
           description: 
           organization: IPUMS
           organization_url: https://www.ipums.org/impact/ipums-research-award
           title: IPUMS CPS Research Award  
-     design:
+          url:
+    design:
       columns: '2'
   - block: portfolio
     id: research
