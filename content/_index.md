@@ -94,8 +94,8 @@ sections:
           organization: IPUMS
           organization_url: https://www.ipums.org/impact/ipums-research-award
           title: IPUMS CPS Research Award  
-    design:
-      columns: '2'
+      design:
+        columns: '2'
   - block: portfolio
     id: research
     content:
