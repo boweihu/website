@@ -23,6 +23,32 @@ sections:
       #   `title`, `organization`, and `date_start` are the required parameters.
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      Error in user YAML: (<unknown>): did not find expected key while parsing a block mapping at line 16 column 7
+---
+# Leave the homepage title empty to use the site title
+title: ''
+date: 2022-10-24
+type: landing
+
+sections:
+  - block: about.biography
+    id: about
+    content:
+      title: Welcome
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: admin
+  - block: accomplishments
+    content:
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      title: 'Recent Awards & Grants'
+      subtitle:
+      # Date format: https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `item` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url:
           date_end: '2024-06-30'
@@ -94,8 +120,42 @@ sections:
           organization: IPUMS
           organization_url: https://www.ipums.org/impact/ipums-research-award
           title: IPUMS CPS Research Award  
-      design:
-        columns: '2'
+     design:
+      columns: '2'
+  - block: portfolio
+    id: research
+    content:
+      title: Research Projects
+      filters:
+        folders:
+          - project
+      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+      default_button_index: 0
+      # Filter toolbar (optional).
+      # Add or remove as many filters (`filter_button` instances) as you like.
+      # To show all items, set `tag` to "*".
+      # To filter by a specific tag, set `tag` to an existing tag name.
+      # To remove the toolbar, delete the entire `filter_button` block.
+      buttons:
+        - name: Household Debt
+          tag: Household Debt
+        - name: Venture Capital
+          tag: Venture Capital
+        - name: Global Taiwan Studies
+          tag: Global Taiwan
+        - name: All
+          tag: '*'
+       # - name: Market Structure
+       #   tag: Market Structure
+       # - name: Taiwanese Firms
+       #   tag: Taiwanese Firms
+    design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
+      view: showcase
+      # For Showcase view, flip alternate rows?
+      flip_alt_rows: True
+    
   - block: portfolio
     id: research
     content:
