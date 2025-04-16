@@ -86,7 +86,14 @@ sections:
           description: 
           organization: ASA Section on Sociology of Consumers and Consumption
           organization_url: https://www.asanet.org/asa_sections/sociology-of-consumers-and-consumption
-          title: Consumers and Consumption Student Paper Award 
+          title: Consumers and Consumption Student Paper Award
+       - certificate_url:
+          date_end: 
+          date_start: '2025-04-01'
+          description: 
+          organization: IPUMS
+          organization_url: https://www.ipums.org/impact/ipums-research-award
+          title: IPUMS CPS Research Award  
     design:
       columns: '2'
   - block: portfolio
