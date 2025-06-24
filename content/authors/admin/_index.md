@@ -10,7 +10,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Presidential Postdoctoral Researcher
+role: Presidential Postdoctoral Research Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
