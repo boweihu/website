@@ -10,7 +10,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Presidential Postdoctoral Research Fellow at Princeton University
+role: Presidential Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
