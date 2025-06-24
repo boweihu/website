@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Bowei Hu
+title: Bo-Wei Hu
 
 # Status emoji
 status:
@@ -10,12 +10,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate in Sociology
+role: Presidential Postdoctoral Research Fellow at Princeton University
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of California, Los Angeles
-    url: https://soc.ucla.edu
+  - name: Princeton University
+    url: https://sociology.princeton.edu
 
 # Short bio (displayed in user profile at end of posts)
 bio:
