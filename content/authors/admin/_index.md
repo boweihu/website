@@ -51,7 +51,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:boweihu@ucla.edu'
+    link: 'mailto:boweihu@princeton.edu'
   - icon: brands/x
     link: https://x.com/bowei_hu
   - icon: google-scholar
