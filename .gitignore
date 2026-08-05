@@ -1,3 +1,9 @@
+# macOS
+.DS_Store
+
+# Local preview working copy (deployed source lives in ./site)
+.preview/
+
 # IDEs
 .idea/
 
