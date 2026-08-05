@@ -32,7 +32,7 @@ a { color: inherit; }
 .topbar {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: flex-end;
   gap: 1.5rem;
   padding: 1.6rem 2.2rem;
 }
@@ -93,7 +93,7 @@ a { color: inherit; }
   flex-direction: column;
   padding: 0 2.2rem 1.6rem;
 }
-.home-left .topbar { padding-left: 0; padding-right: 0; }
+.home-left .topbar { padding-left: 0; padding-right: 0; justify-content: flex-start; }
 .hero {
   flex: 1;
   display: flex;
