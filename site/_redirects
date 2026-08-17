@@ -1,0 +1,8 @@
+# Redirect old Hugo/Wowchemy paths to the new pages (301 = permanent)
+/project/*       /research.html   301
+/publication/*   /research.html   301
+/post/*          /                301
+/event/*         /                301
+/authors/*       /about.html      301
+/tags/*          /                301
+/categories/*    /                301
